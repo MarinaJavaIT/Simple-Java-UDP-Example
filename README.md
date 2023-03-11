@@ -1,8 +1,4 @@
 # Simple-Java-UDP-Example
-================================================================================================
-==========                          Simple UDP Example                                ==========                                                            
-==========                          Created: 11/03/2023                               ==========
-================================================================================================
 Introduction:
 	This set of classes is designed to show the reliability of UDP in Java.
 	The way it does this is by trying to send a specified number of messages from the client
